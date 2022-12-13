@@ -1,7 +1,22 @@
 # Panduan Kontribusi
 
-Terima kasih sudah menyempat waktu membaca halaman ini. Kontribusi pada repositori ini dapat 
-dilakukan dengan langkah berikut:
+Terima kasih sudah menyempat waktu membaca halaman ini. Ada hal yang perlu kamu patuhi dan ikut sebelum melakukan
+kontribusi, hal ini diindahkan agar menciptakan ensiklopedia yang berkualitas dan menjaga proses gotong royong dalam
+menyusun ensiklopedia.
+
+## Ketentuan Entri Ensiklopedia
+
+Setiap kontributor wajib membaca ketentuan ini untuk
+
+1. Entri ensiklopedia diharapkan memiliki referensi ke buku, halaman resmi, catatan dan sumber yang dapat dipercaya.
+2. Entri diharapkan mengikuti kaidah tata bahasa indonesia yang berlaku serta tidak mengandung kalimat yang melanggar [Etika Kontributor](CODE_OF_CONDUCT.md).
+3. Tidak diperkenankan menyalin atau menjiplak isi ensiklopedia dari sumber ensiklopedia lain, seperti Wikipedia.
+4. Tidak harus membuat entri sempurna, bila merasa ada yang kurang lakuan pemerikasaan entri oleh sejawat dengan membuka _pull request_ dini sebelum selesai dan komunikasikan disana.
+5. Semua kontribusi ini akan masuk kedalam lisensi Creative Common Atribusi atas nama Kontributor Komputapedia. 
+
+## Menambahkan Entri Ensiklopedia
+
+Kontribusi pada repositori ini dapat dilakukan dengan langkah berikut:
 
 1. Lakukan _forking_ repositori ini di https://github.com/komputapedia/ensiklopedia.
 2. Lalu buka hasil _fork_ repository, salin alamat repositori _fork_ kamu dan lakukan `git clone` di terminal / konsol komputer kamu.

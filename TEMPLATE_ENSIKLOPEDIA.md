@@ -17,14 +17,20 @@ ini isi sub sub bagian
 
 Contoh sitasi menggunakan markdown, 
 
-Menurut <cite>[Rinaldi Munir][1]</cite>,....
+Menurut <cite>[\[1\]](#MUN11)</cite>,....
 
-Menurut <cite>[Budi Raharjo][2]</cite>, ...
+Menurut <cite>[\[2\]](#RAH16)</cite>, ...
 
 
 ### Referensi
 
 Daftar dibawah hanya sebagai contoh.
 
-[1]: Munir, Rinaldi. 2011. Algoritma dan Pemrograman dengan Bahasa C dan Pascal. Bandung. Penerbit Informatika.
-[2]: Raharjo, Budi. 2016. Pemrograman GUI dengan C++ dan QT. Bandung. Penerbit Informatika.
+<ol>
+    <li id="MUN11">
+        Munir, Rinaldi. 2011. Algoritma dan Pemrograman dengan Bahasa C dan Pascal. Bandung. Penerbit Informatika.
+    </li>
+    <li id="RAH16">
+        Raharjo, Budi. 2016. Pemrograman GUI dengan C++ dan QT. Bandung. Penerbit Informatika.
+    </li>
+</ol>
