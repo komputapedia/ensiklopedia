@@ -4,6 +4,30 @@ Terima kasih sudah menyempat waktu membaca halaman ini. Ada hal yang perlu kamu 
 kontribusi, hal ini diindahkan agar menciptakan ensiklopedia yang berkualitas dan menjaga proses gotong royong dalam
 menyusun ensiklopedia.
 
+## Apa yang bisa masuk Entri Ensiklopedia
+
+Entri ensiklopedia adalah artikel terkait keilmuan komputasi, baik berupa definisi, teori, praktik dan sebagainya, tetapi tidak terbatas pada itu kamu juga bisa menambahkan:
+
+- Definisi
+
+Definisi menjelaskan istilah yang muncul dalam ilmu komputasi, seperti algoritme, program, basis data dan sebaginya.
+
+- Teori
+
+Teori terkait ilmu komputasi berserta kasus pemakaianya, seperti algoritme pengurutan, struktur data pohon , teknik penguraian, sistem distribusi dan semacamnya.
+
+- Tokoh
+
+Tokoh adalah orang yang memiliki kontribusi terhadap perkembangan dan perluasan wawasan ilmu komputasi. Tokoh tidak harus seorang akademisi, bisa siapa saja, influencer, konten kreator dan programmer yang punya kontribusi besar tapi memang tidak terlihat.
+
+- Teknologi Komputasi
+
+Teknologi komputasi adalah teknologi yang digunakan baik akademik ataupun oleh industri dalam keilmuan komputasi, seperti bahasa pemrograman, design pattern dan sebagainya.
+
+- Fenomena
+
+Bagian ini cukup kontroversial tetapi perlu, hal ini menrangkum fenomena terkait keilmuan dan penerapan ilmu komputasi, seperti rilis distro linux lokal dan sebagainya.
+
 ## Ketentuan Entri Ensiklopedia
 
 Setiap kontributor wajib membaca ketentuan ini untuk
