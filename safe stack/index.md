@@ -3,9 +3,10 @@ judul: SAFE Stack
 tagar: ['Paradigma fungsional', 'Arsitektur web', 'MVU'] # tagar untuk menandai entri ensiklopedia sejenis
 kategori: ['Perangkat Lunak', 'Teknologi Web'] # pengategorian untuk sub bidang keilmuan tertentu.
 sinonim: ['SAFE-Stack'] # sisnonim dari judul untuk memudahkan pencarian
+deskripsi: "Padanan teknologi web full-stack berbasis F# yang menawarkan kehandalan, produktivitas dan flesibilitas"
 ---
 
-![Logo dari SAFE Stack](https://safe-stack.github.io/images/illustrations/safe-stack.png)
+<img alt="Logo dari SAFE Stack" src="https://safe-stack.github.io/images/illustrations/safe-stack.png" width="200" height="200" />
 
 SAFE stack merupakan padanan teknologi (_techstack_) web berbasis bahasa F# yang menawarkan kehandalan, 
 produktif dan fleksibilitas. SAFE sendiri merupakan gabungan dari 4 pustaka teknologi <cite>[\[1\]](#SAFEST)</cite>:
