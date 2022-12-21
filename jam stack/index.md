@@ -24,9 +24,30 @@ Kemunculan JAM Stack dimulai pada tahun 2016 oleh Mathias Biilman, CEO sekaligus
 
 Ada beragam pilihan pendekatan teknologi yang ada untuk menerapkan arsitektur, _Static Site Generation_ dan _Single Page Application_.
 
-Alat yang umum digunakan untuk teknologi _Static Site Generation_ yakni Jekyll, Hugo, Zola dan Next.
+Alat yang umum digunakan untuk teknologi _Static Site Generation_ yang disebut dengan _generator_ yakni Jekyll, Hugo, Zola dan Next.
 
-Alat yang umum digunakan untuk teknologi _Single Page Application_ yakni React, Vue, Angular dan Svelte.
+Alat yang umum digunakan untuk teknologi _Single Page Application_ dengan pendekatan _Client Side Rendering_ yakni React, Vue, Angular dan Svelte.
+
+### Javascript
+
+Web yang dibangun dengan JAM stack membutuhkan javascript untuk keperluan komponen Web di sisi klien seperti _fetching API_ dan sebagainya.
+
+### API
+
+API menjadi fungsi sederhana untuk melakukan beragam operasi yang dibungkus menjadi endpoin sederhana yang akan digunakan oleh website menggunakan javascript di browser klien, seperti AJAX. 
+
+Tidak hanya untuk dikonsumsi oleh javascript, API juga bisa digunakan untuk manjemen konten sehingga 
+ketika ada konten baru yang ditambahkan, alat _generator_ web akan mengambil data dari sini untuk menjadi konten web.
+
+Pemanfaatan API seperti membuat newsletter, fitur komentar, _headless CMS_ dan sebagainya.
+
+### Markup 
+
+Markup bertugas sebagai kerangka tampilan utama dari web yang dihasilkan oleh alat _Static-site generator_ ataupun _framework javascript_ dengan pendekatan _Client side rendering_.
+
+Markup akan berisi javascript untuk melakukan operasi dengan API maupun interaksi antar komponen markup. 
+
+Contoh bahasa markup yakni _Hyper Text Markup Language_ (HTML).
 
 ### Referensi
 
