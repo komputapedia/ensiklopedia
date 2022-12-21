@@ -48,7 +48,7 @@ Kontribusi pada repositori ini dapat dilakukan dengan langkah berikut:
       - Contoh bila menggunakan username saya (edelsora) maka, `git clone https://github.com/edelsora/ensiklopedia`.
 3. Setelah proses `git clone` selesai, buka folder hasil proses tersebut di teks editor anda.
     1. Jika kamu ingin menambahkan sebuah entri ensiklopedia, maka
-        - Buat folder dengan nama  judul entri
+        - Buat folder dengan nama judul entri dalam huruf kecil dan pisahkan strip, misal `Model Komputasi` menjadi `model-komputasi`.
         - Salin berkas `TEMPLATE_ENSIKLOPEDIA.md` ke dalam folder, dan ubah namanya menjadi `index.md`.
         - Ubah isi `index.md` sesuai dengan keterangan yang ada didalamnya.
         - Setelah selesai mengisi entri, pastikan lakukan perintah ini :
