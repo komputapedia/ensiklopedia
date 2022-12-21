@@ -3,6 +3,7 @@ judul: JAM Stack
 tagar: ['arsitektur perangkat lunak', 'web'] # tagar untuk menandai entri ensiklopedia sejenis
 kategori: ['Perangkat Lunak','Teknologi Web'] # pengategorian untuk sub bidang keilmuan tertentu.
 sinonim: ['JAM stack', 'JAM'] # sisnonim dari judul untuk memudahkan pencarian
+deskripsi: Arsitektur teknologi web berlandaskan Javascript, API dan Markup.
 ---
 
 JAM (Javascript, API, Markup) Stack  adalah arsitektur teknologi web yang dibangun dengan Bahasa Markup, Javascript sisi browser dan API yang berfokus pada pengolahan sisi klien.
