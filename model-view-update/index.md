@@ -30,7 +30,6 @@ type Model = Int
 init :: Model
 init = 0
 ```
-<cite>[\[2\]](#BUTTEA)</cite>
 
 Setiap aplikasi dengan prinsip Model-View-Update memiliki fungsi **init** yang berisi nilai awal dari Model, jika ada perubahan Model maka fungsi **View** akan dipanggil ulang untuk membangun kembali tampilan (_re-rendering_).
 
@@ -45,7 +44,6 @@ update model msg =
         | Increment -> model + 1
         | Decrement -> model - 1
 ```
-<cite>[\[2\]](#BUTTEA)</cite>
 
 Perubahan **Model** dilakukan melalui fungsi **Update**, seperti *Increment* atau *Decrement* di tulis didalam fungsi ini. Fungsi **Update** akan dipanggil melalui fungsi **View** untuk memicu perubahan tampilan:
 
@@ -62,7 +60,8 @@ view model =
         ]
     ]
 ```
-<cite>[\[2\]](#BUTTEA)</cite>
+
+Sumber contoh kode : <a href="https://guide.elm-lang.org/architecture/buttons.html">Button - The Elm Architecture</a>.
 
 ## Pustaka Bahasa
 
