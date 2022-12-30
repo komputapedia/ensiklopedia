@@ -8,8 +8,6 @@ deskripsi: ""
 
 Model-View-Update atau **MVU** adalah arsitektur aplikasi yang bersifat interaktif terhadap perubahan data. Model-View-Update juga dikenal dengan nama The Elm Architecture karena arsitektur ini menjadi komponen utama dari bahasa pemrograman Elm <cite>[\[1\]](#TEA)</cite>.
 
-Pendekatan ini banyak digunakan di ragam alat pengembangan teknologi web seperti React + Redux, Vue, Svelte dan Elm sebagai pencetusnya.
-
 ## Cara Kerja
 
 Model-View-Update memiliki tugas tersendiri dari namanya:
@@ -30,7 +28,6 @@ type Model = Int
 init :: Model
 init = 0
 ```
-<cite>[\[2\]](#BUTTEA)</cite>
 
 Setiap aplikasi dengan prinsip Model-View-Update memiliki fungsi **init** yang berisi nilai awal dari Model, jika ada perubahan Model maka fungsi **View** akan dipanggil ulang untuk membangun kembali tampilan (_re-rendering_).
 
@@ -45,7 +42,6 @@ update model msg =
         | Increment -> model + 1
         | Decrement -> model - 1
 ```
-<cite>[\[2\]](#BUTTEA)</cite>
 
 Perubahan **Model** dilakukan melalui fungsi **Update**, seperti *Increment* atau *Decrement* di tulis didalam fungsi ini. Fungsi **Update** akan dipanggil melalui fungsi **View** untuk memicu perubahan tampilan:
 
@@ -62,7 +58,8 @@ view model =
         ]
     ]
 ```
-<cite>[\[2\]](#BUTTEA)</cite>
+
+Sumber contoh kode : <a href="https://guide.elm-lang.org/architecture/buttons.html">Button - The Elm Architecture</a>.
 
 ## Pustaka Bahasa
 
