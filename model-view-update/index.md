@@ -8,8 +8,6 @@ deskripsi: ""
 
 Model-View-Update atau **MVU** adalah arsitektur aplikasi yang bersifat interaktif terhadap perubahan data. Model-View-Update juga dikenal dengan nama The Elm Architecture karena arsitektur ini menjadi komponen utama dari bahasa pemrograman Elm <cite>[\[1\]](#TEA)</cite>.
 
-Pendekatan ini banyak digunakan di ragam alat pengembangan teknologi web seperti React + Redux, Vue, Svelte dan Elm sebagai pencetusnya.
-
 ## Cara Kerja
 
 Model-View-Update memiliki tugas tersendiri dari namanya:
