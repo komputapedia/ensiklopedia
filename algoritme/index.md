@@ -4,6 +4,9 @@ tagar: ['Algoritme', 'Pemrograman terstruktur']
 kategori: ['Teori Komputasi', 'Pemrograman']
 sinonim: ['Algoritma', 'Algorithm', 'Prosedur']
 deskripsi: "Tahapan penyelesaian masalah secara runut dan logis"
+
+tanggal_pembuatan: "2022-12-10"
+tanggal_pembaharuan: "2023-01-23"
 ---
 
 Alogritme adalah kumpulan langkah-langkah cara untuk memecahkan suatu masalah yang dihadapi<cite>[\[1\]](#RIN11)</cite>.

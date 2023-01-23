@@ -3,7 +3,10 @@ judul: Model View Update
 tagar: ['arsitektur aplikasi', 'antarmuka'] # tagar untuk menandai entri ensiklopedia sejenis
 kategori: ['Perangkat Lunak'] # pengategorian untuk sub bidang keilmuan tertentu.
 sinonim: ['MVU', 'model view update','Arsitektur Elm'] # sisnonim dari judul untuk memudahkan pencarian
-deskripsi: ""
+deskripsi: "Arsitektur aplikasi interaktif dengan perubahan data secara fungsional"
+
+tanggal_pembuatan: "2022-12-10"
+tanggal_pembaharuan: "2023-01-23"
 ---
 
 Model-View-Update atau **MVU** adalah arsitektur aplikasi yang bersifat interaktif terhadap perubahan data. Model-View-Update juga dikenal dengan nama The Elm Architecture karena arsitektur ini menjadi komponen utama dari bahasa pemrograman Elm <cite>[\[1\]](#TEA)</cite>.

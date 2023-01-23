@@ -4,6 +4,9 @@ tagar: ['Algoritme', 'Pemrograman terstruktur'] # tagar untuk menandai entri ens
 kategori: ['Teori Komputasi', 'Pemrograman'] # pengategorian untuk sub bidang keilmuan tertentu.
 sinonim: ['judul ensiklopedia', 'nama ensikopedia', 'Prosedur'] # sisnonim dari judul untuk memudahkan pencarian
 deskripsi: "Ringkasaan singkat sepanjang 150 karakter tentang isi ensiklopedia"
+
+tanggal_pembuatan: "2022-12-10" # tanggal pertama kali dibuat
+tanggal_pembaharuan: "2023-01-23" # tanggal terakhir kali diperbaharui
 ---
 
 Isi dari ensiklopedia

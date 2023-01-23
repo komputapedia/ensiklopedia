@@ -4,6 +4,9 @@ tagar: ['Paradigma fungsional', 'Arsitektur web', 'MVU'] # tagar untuk menandai 
 kategori: ['Perangkat Lunak', 'Teknologi Web'] # pengategorian untuk sub bidang keilmuan tertentu.
 sinonim: ['SAFE-Stack'] # sisnonim dari judul untuk memudahkan pencarian
 deskripsi: "Padanan teknologi web full-stack berbasis F# yang menawarkan kehandalan, produktivitas dan flesibilitas"
+
+tanggal_pembuatan: "2022-12-10"
+tanggal_pembaharuan: "2023-01-23"
 ---
 
 <img alt="Logo dari SAFE Stack" src="https://safe-stack.github.io/images/illustrations/safe-stack.png" width="200" height="200" />

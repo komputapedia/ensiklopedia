@@ -4,6 +4,9 @@ tagar: ['arsitektur perangkat lunak', 'web'] # tagar untuk menandai entri ensikl
 kategori: ['Perangkat Lunak','Teknologi Web'] # pengategorian untuk sub bidang keilmuan tertentu.
 sinonim: ['JAM stack', 'JAM'] # sisnonim dari judul untuk memudahkan pencarian
 deskripsi: Arsitektur teknologi web berlandaskan Javascript, API dan Markup.
+
+tanggal_pembuatan: "2022-12-10"
+tanggal_pembaharuan: "2023-01-23"
 ---
 
 JAM (Javascript, API, Markup) Stack  adalah arsitektur teknologi web yang dibangun dengan Bahasa Markup, Javascript sisi browser dan API yang berfokus pada pengolahan sisi klien.
